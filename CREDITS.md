@@ -1,7 +1,7 @@
 ---
 本项目所有贡献者的列表
 ---
-赵永瑞  Z
+赵永瑞  Zhao Yongrui
 
 杨越  QzCrane
 
