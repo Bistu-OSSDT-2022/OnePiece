@@ -92,6 +92,6 @@ def plot_graphs_knn(knn_acc):
 plot_graphs_knn(knn_acc)
 
 #进行手写汉字识别
-print('原数据标签：\n'+str(test_labels[:20])+"\n预测数据标签：")     # 随机取20个样本进行识别
+print('原数据标签：\n'+str(test_labels[:20])+"\n预测数据标签：")    # 随机取20个样本进行识别
 neigh_model = joblib.load('neigh_model')                        # 模型从本地调回
 print(list(neigh_model.predict(test_images[:20])))              # 打印识别结果
