@@ -53,4 +53,4 @@ test_labels = DATA['testLabels']
 print(train_images, '\n')
 print(test_images, '\n')
 print(train_labels, '\n')
-print(test_labels, '\n')
+print(test_labels, '\n') 
